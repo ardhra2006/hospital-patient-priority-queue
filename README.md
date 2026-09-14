@@ -1,1 +1,1 @@
-# hospital-patient-priority-queue
+# hospital_patient_priority_queue
